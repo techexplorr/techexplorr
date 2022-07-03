@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, Developers</h1>
 <h2>About me:</h2>
 <p>
-👨🏼‍💻 I am a Passionate Web Developer
-📚 I am currently doing my Bachelors
-🍔 Fast Food lover😍
-🌈 Be kind to others💖
+👨🏼‍💻 I am a Passionate Web Developer<br>
+📚 I am currently doing my Bachelors<br>
+🍔 Fast Food lover😍<br>
+🌈 Be kind to others💖<br>
 </p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=techexplorr&label=Profile%20views&color=0e75b6&style=flat" alt="techexplorr" /> </p>
 
