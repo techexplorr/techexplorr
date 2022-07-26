@@ -14,9 +14,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techexplorr" alt="techexplorr" /></a> </p>
 
-<img align="center" src="https://github.com/techexplorr/techexplorr/blob/main/1.jpg">
-
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://dev.to/techexplorr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="techexplorr" height="30" width="40" /></a>
