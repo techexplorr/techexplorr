@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, Developers</h1>
 <h2>About me:</h2>
 
-<img align="right" src="https://github.com/techexplorr/techexplorr/blob/main/4P4X.gif" width="400" height="400" />
+<img align="right" src="Ry6p.gif" width="400" height="400" />
 <br/><br/>
 - 👨🏼‍💻 I am a Passionate Web Developer<br>
 - 📚 I am currently doing my Bachelors<br>
