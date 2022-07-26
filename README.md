@@ -8,6 +8,7 @@
 - 📚 I am currently doing my Bachelors<br>
 - 🍔 Fast Food lover😍<br>
 - 🌈 Be kind to others💖<br>
+- ✨ I am funny😂 <br/>
 <br/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=techexplorr&label=Profile%20views&color=0e75b6&style=flat" alt="techexplorr" /> </p>
 
