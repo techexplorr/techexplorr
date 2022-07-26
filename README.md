@@ -6,7 +6,7 @@
 🍔 Fast Food lover😍<br>
 🌈 Be kind to others💖<br>
 </p>
-<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/Ry6p" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+https://i.gifer.com/Ry6p.gif
 <p align="left"><img src="https://komarev.com/ghpvc/?username=techexplorr&label=Profile%20views&color=0e75b6&style=flat" alt="techexplorr" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techexplorr" alt="techexplorr" /></a> </p>
