@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/techexplorr/techexplorr/blob/main/1.jpg">
 <h1 align="center">Hi 👋, Developers</h1>
 <h2>About me:</h2>
 <p>
